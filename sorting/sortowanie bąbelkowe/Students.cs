@@ -9,7 +9,7 @@ namespace sortowanie_bąbelkowe
     class Student
     {
         
-        public int Age { get; set; }
+        public int Age { get; }
         public Student(int age)
         {
             Age = age;
