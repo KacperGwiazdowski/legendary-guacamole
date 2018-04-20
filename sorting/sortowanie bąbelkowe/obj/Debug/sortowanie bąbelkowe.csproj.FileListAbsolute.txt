@@ -1,0 +1,7 @@
+c:\users\user\source\repos\sortowanie bąbelkowe\sortowanie bąbelkowe\bin\Debug\sortowanie bąbelkowe.exe.config
+c:\users\user\source\repos\sortowanie bąbelkowe\sortowanie bąbelkowe\bin\Debug\sortowanie bąbelkowe.exe
+c:\users\user\source\repos\sortowanie bąbelkowe\sortowanie bąbelkowe\bin\Debug\sortowanie bąbelkowe.pdb
+c:\users\user\source\repos\sortowanie bąbelkowe\sortowanie bąbelkowe\obj\Debug\sortowanie bąbelkowe.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\sortowanie bąbelkowe\sortowanie bąbelkowe\obj\Debug\sortowanie bąbelkowe.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\sortowanie bąbelkowe\sortowanie bąbelkowe\obj\Debug\sortowanie bąbelkowe.exe
+c:\users\user\source\repos\sortowanie bąbelkowe\sortowanie bąbelkowe\obj\Debug\sortowanie bąbelkowe.pdb
